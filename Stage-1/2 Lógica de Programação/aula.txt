@@ -1,8 +1,36 @@
-O que é programação
+Lógica de programação
 
 ---------------  Aula 2 ---------------------
 
+Lógica de Programação
 
+    Uma maneira de pensar
+    Como o computador entende?
+    Dar instruções?
+
+-Uma maneira de pensar
+    Programação imperativa > Dar ordens
+        Passo a passo
+        Como fazer
+
+    Programação declarativa > Declarar, falar alguma coisa
+        Conjunto de regras
+        O que fazer
+
+-Como o computador entende?
+    Recebe ordens e processa as ordens
+    Você entende o problema e dá as instruções para o computador, através da linguagem de programação
+
+-Dar instruções
+    Receita de bolo
+        Dados
+            String > sequência de caracteres
+            Number > -1, 0, 22
+            Boolean > true / false
+
+        Manipulação de dados
+            Transformação dos dados
+            Execução dos dados
 
 
 
