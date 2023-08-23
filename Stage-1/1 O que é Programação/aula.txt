@@ -1,0 +1,53 @@
+O que é programação - Prof. Luciane Y. H. Kanashiro
+
+---------------  Aula 1 ---------------------
+
+O que é programação?
+
+    -O ato de programar
+        Captura e tratamento de dados
+        Fluxo de eventos
+        Ordem lógica
+        Tarefas para gerar um resultado, exemplos:
+            Agendamento de consulta
+            Pedir uma carona
+            Pedir comida
+
+    -Como programar?
+        Algoritmos
+            Passo a passo para resolver um problema
+
+        Lógica de programação
+            Aplicação do algoritmo numa sequência
+
+        Linguagem
+            Semelhanças
+                Sintaxe
+                Lógica (significado)
+
+    -Porque programar?
+        Encontrar soluções
+            Resolver problemas
+            Não dá para programar sem saber antes o problema
+
+    O que é um programa?
+        Conjunto de instruções, exemplos:
+            Lava louças
+            Lavadora de roupas
+            Microondas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
