@@ -1,0 +1,38 @@
+O que é e como funciona a Web
+
+---------------  Aula 3 ---------------------
+
+O que é a WEB?
+    Web = teia de aranha
+        Rede mundial de computadores
+
+    Como funciona a Web?
+        https://rocketseat.com.br
+
+        Por debaixo dos panos
+            Você digita a URL: https://rocketseat.com.br
+                HTTP
+                    Hypertext Transfer Protocol
+
+                    Função: Trocar mensagens entre computadores
+
+                    Mensagem
+                        A mensagem é quebrada em diversos pacotes
+
+                URL
+                    Uniform Resource Locator
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
