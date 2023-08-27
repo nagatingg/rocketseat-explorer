@@ -4,13 +4,13 @@ O que é e como funciona a Web
 
 O que é a WEB?
     Web = teia de aranha
-        Rede mundial de computadores
+        Rede mundial de computadores / COMPUTADORES INTERLIGADOS
 
     Como funciona a Web?
         https://rocketseat.com.br
 
         Por debaixo dos panos
-            Você digita a URL: https://rocketseat.com.br
+            - Você digita a URL: https://rocketseat.com.br
                 HTTP
                     Hypertext Transfer Protocol
 
@@ -21,6 +21,54 @@ O que é a WEB?
 
                 URL
                     Uniform Resource Locator
+                        Localizador e identificador de um recurso
+
+                        Recurso, nesse caso, é o site
+
+            - É iniciada uma linha de comunicação, através do protocolo TCP, entre o seu computador (cliente) até o computador que tem a página (servidor)
+                Cliente
+                    O computador, dispositivo ou aplicativo que fez o pedido
+
+                    Browser
+
+                Servidor
+                    Computador configurado para receber os pedidos e enviar respostas aos pedidos
+
+                TCP
+                    Transmission Control Protocol
+
+                    Função: Garantir que os pacotrs cheguem corretamente ao destino
+
+            - O endereço é convertido em um IP (76.76.21.21) através do DNS
+                DNS
+                    Domain Name System
+
+                    Função: converter um domínio em um endereço de IP
+
+                IP
+                    Internet Protocol
+
+                    Função: endereçamento dos computadores
+
+            - Seu pedido está percorrendo diversos proxies
+                Proxy
+                    Qualquer dispositivo no meio do caminho
+
+                    Modem, roteador, outros computadores
+
+                    Função: encaminhamento dos pacotes
+
+            - Seu pedido chega até o servidor
+
+            - Servidor analisa seu pedido e te dá uma resposta, neste caso, positiva
+
+            - O caminho de volta é semelhante ao de ida, passando pela linha de comunicação que foi criada
+
+            - O browser recebe os pedaços e monta a tela do site pra você
+
+            - Esse processo acontece muitas vezes, pois para cada recurso (html, css, javascript, imagem, ...) é feita uma nova conexão
+
+            
                         
 
 
