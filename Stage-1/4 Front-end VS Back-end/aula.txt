@@ -2,6 +2,51 @@ Front-end VS Back-end
 
 ---------------  Aula 4 ---------------------
 
+"request" - URL
+                                    > Browser > Front-end
+Recebe a "response" do Back-end
+
+    Front-end
+        Cliente
+
+        Cliente-side
+
+        Tecnologias
+            HTML
+
+            CSS
+
+            JavaScript
+
+            Frameworks e Libraries
+                Angular
+                Vue
+                ReactJS > biblioteca mais flexivel 
+
+            Ferramentas
+                Webpack
+                Babel
+
+ Back-end
+    Servidor
+
+    Server-side
+
+    Tecnologias
+        Linguagens de Programação
+            PHP
+            Java
+            Python
+            JavaScript
+
+        Banco de dados
+            SQL
+                PostegreSQL
+
+                MySQL
+
+            NoSQL
+                MongoDB
 
 
             
