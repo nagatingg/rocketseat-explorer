@@ -2,6 +2,11 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 4 ---------------------
 
+Apresentação do figma e do projeto que iremos criar.
+
+Link do projeto no Figma >
+    https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate
+
 
 
 
