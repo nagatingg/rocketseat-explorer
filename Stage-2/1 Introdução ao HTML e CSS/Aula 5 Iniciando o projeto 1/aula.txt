@@ -2,7 +2,17 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 5 ---------------------
 
-A
+Tags chamamos de elementos HTML
+    Pai e filho
+
+Bodu = corpo, o que realmente aparece para o cliente
+
+char = caracter
+set = conjunto
+
+charset = conjunto dos caracteres
+
+O projeto 1 também foi iniciado nessa aula, dentro da pasta stage 2
 
 
 
