@@ -2,7 +2,7 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 8 ---------------------
 
-
+Configurando o projeto 1, com importações de fontes do google e criação do arquivo css da página.
 
 
 
