@@ -1,7 +1,8 @@
 Introdução ao HTML e CSS
 
 ---------------  Aula 7 ---------------------
-
+Continuando o projeto 1
+Configurando as informações dos paragrafos, como negrito, cores, etc
 
 
 
