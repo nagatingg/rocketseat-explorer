@@ -2,7 +2,7 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 9 ---------------------
 
-
+Configurando o projeto 1 com tratamento de cores no CSS
 
 
 
