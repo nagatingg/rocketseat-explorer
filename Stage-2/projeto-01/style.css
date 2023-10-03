@@ -33,4 +33,6 @@ span, a {
 
 p {
     color: #7D7987;
+    font-size: 14px;
+    line-height: 28px; /* 200% */
 }

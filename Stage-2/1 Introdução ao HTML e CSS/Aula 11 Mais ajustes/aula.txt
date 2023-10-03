@@ -2,7 +2,7 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 11 ---------------------
 
-
+Realizando mais alguns ajustes de textos e alinhamentos no projeto 01
 
 
 
