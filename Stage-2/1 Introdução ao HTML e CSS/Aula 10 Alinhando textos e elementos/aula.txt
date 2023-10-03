@@ -2,7 +2,7 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 10 ---------------------
 
-
+Configurando o alinhamento dos textos e das DIVs no projeto 01
 
 
 
