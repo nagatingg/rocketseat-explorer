@@ -2,7 +2,9 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 12 ---------------------
 
-
+Espaçamentos do elementos na tela.
+Ordem para utilizar o margin: cima direita baixo esquerda */ Ordem do relogio /*
+Continuação do projeto 1
 
 
 
