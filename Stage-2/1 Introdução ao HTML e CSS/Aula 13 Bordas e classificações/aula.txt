@@ -2,7 +2,9 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 13 ---------------------
 
+Adicionando uma linha border ao projeto, para ser implementando como footer
 
+Além disso, como organizar melhor os textos com espaçamentos, tamanhos, e identificar melhor o código de forma limpa
 
 
 

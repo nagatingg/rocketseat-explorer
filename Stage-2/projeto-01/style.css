@@ -7,7 +7,6 @@ body {
 #hero {
     margin: 0 auto 72px;
     width: 592px;
-    height: 284px;
     flex-shrink: 0;
 }
 
@@ -37,7 +36,7 @@ span, a {
     color: #F90;
 }
 
-p {
+p, #footer {
     color: #7D7987;
     font-size: 14px;
     line-height: 28px; /* 200% */
@@ -45,4 +44,11 @@ p {
 
 #footer a + a{
     margin-left: 28px;
+}
+
+.line {
+    margin: auto;
+    width: 568px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 8px;
 }
