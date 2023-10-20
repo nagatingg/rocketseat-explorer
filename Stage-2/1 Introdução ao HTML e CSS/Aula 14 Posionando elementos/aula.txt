@@ -2,7 +2,7 @@ Introdução ao HTML e CSS
 
 ---------------  Aula 14 ---------------------
 
-
+Organizando o posicionamento do elemento #balls e também adicionando o incremento target"blanl" dentro do <a></a>. Isso faz com que o link clicado na página, seja aberta em uma nova aba, sem fechar a atual.
 
 
 

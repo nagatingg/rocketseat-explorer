@@ -46,9 +46,19 @@ p, #footer {
     margin-left: 28px;
 }
 
+#footer {
+    margin-bottom: 33px;
+}
+
 .line {
     margin: auto;
     width: 568px;
     border: 1px solid #ECEFF2;
     margin: 0 auto 8px;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
