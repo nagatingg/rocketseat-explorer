@@ -2,7 +2,7 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 1 ---------------------
 
-
+Apresentação do projeto a ser desenvolvido
 
 
 
