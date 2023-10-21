@@ -2,6 +2,15 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 2 ---------------------
 
+Criando o projeto 2, realizando o downloads das imagens que serão utilizadas, junto com a criação do código inicial.
+
+Importante detalhe para o header, sempre utilizar a TAG nav para a navegação da página.
+
+Falando do MAIN
+Quando você quer criar uma div com conteudo em formato de texto, utilizar:
+.text
+    > <div class="text"></div>
+Além disso, conmo eu tenho uma seção onde irei falar um texto, posso utilizar section ao invés de DIV, para melhor identação
 
 
 
