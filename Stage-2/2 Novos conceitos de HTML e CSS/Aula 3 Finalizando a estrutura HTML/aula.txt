@@ -2,7 +2,7 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 3 ---------------------
 
-
+Construindo a página com uma melhor SEO, acessibilidade, além de formatação melhor
 
 
 
