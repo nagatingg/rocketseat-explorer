@@ -2,9 +2,10 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 7 ---------------------
 
+A11y > Simplifica sobre acessibilidade na refotaração de código
+W3C > css
 
-
-
+Entender junto com o time qual a melhor tomada de decisão para melhor acessibilidade, se baseando nos conceitos novos que precisam ser implementados, sem alterar o resultado final do projeto
 
 
 
