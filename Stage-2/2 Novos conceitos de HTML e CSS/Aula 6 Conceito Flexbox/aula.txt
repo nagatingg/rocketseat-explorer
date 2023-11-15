@@ -2,8 +2,9 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 6 ---------------------
 
+main axis - eixo principal
 
-
+Modificando o conceito do flexbox do projeto, aprendendo o significado de fato de se utilizar o justify-content, entre  outras coisas
 
 
 
