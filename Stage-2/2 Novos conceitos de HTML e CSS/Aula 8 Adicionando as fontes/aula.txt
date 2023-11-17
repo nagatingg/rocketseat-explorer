@@ -2,7 +2,7 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 8 ---------------------
 
-
+Importante fontes e aprendendo a incoporar as mesmas dentro do projeto
 
 
 
