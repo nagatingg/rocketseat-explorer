@@ -2,7 +2,8 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 8 ---------------------
 
-Importante fontes e aprendendo a incoporar as mesmas dentro do projeto
+Importando fontes e aprendendo a incoporar as mesmas dentro do projeto
+Além disso, também fizemos alterações especiais, como utilização do hover
 
 
 
