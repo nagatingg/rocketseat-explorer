@@ -2,8 +2,9 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 12 ---------------------
 
+Aprendendo a utilizar a opacidade dentro do css, bem básico, mas importante. Também pode ser adicionada dentro do :hover, quando passar o mouse em cima do texto.
 
-
+Finalizando o projeto 2.
 
 
 
