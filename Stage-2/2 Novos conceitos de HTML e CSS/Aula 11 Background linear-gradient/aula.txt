@@ -2,7 +2,7 @@ Conhecendo novos conceitos de HTML e CSS
 
 ---------------  Aula 11 ---------------------
 
-
+Aprendendo a utilizar um background com cor em degradê no website, além de outras configurações no css dentro do projeto 2.
 
 
 
