@@ -1,0 +1,3 @@
+GET: Receber e enviar recursos para o servidor
+POST: Enviar recursos
+
