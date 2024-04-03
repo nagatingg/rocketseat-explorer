@@ -1,3 +1,29 @@
 GET: Receber e enviar recursos para o servidor
 POST: Enviar recursos
 
+
+Z-Index no CSS: Um guia completo
+O z-index é uma propriedade CSS poderosa que controla a ordem de empilhamento dos elementos em uma página web. Imagine que a página é como uma mesa e os elementos são objetos sobre ela. O z-index determina qual objeto fica "em cima" de qual, controlando a sobreposição.
+
+Conceitos-chave:
+
+Contexto de empilhamento: Cada elemento HTML define um contexto de empilhamento. O z-index só se aplica a elementos dentro do mesmo contexto.
+Valor padrão: O z-index padrão é 0. Elementos com o mesmo valor se sobrepõem na ordem em que aparecem no HTML.
+Valores maiores: Elementos com valores de z-index maiores ficam "na frente" de elementos com valores menores.
+Valores negativos: Posiciona elementos "atrás" de outros elementos, mesmo que fora do contexto de empilhamento.
+Regras de sobreposição:
+
+Maior z-index: O elemento com o maior valor de z-index fica na frente.
+Posicionamento: Se os z-indexes forem iguais, o elemento posicionado (absolute, fixed, relative) sobrepõe o elemento não posicionado (static).
+Ordem no HTML: Se os critérios acima não se aplicarem, o elemento que aparece primeiro no HTML fica na frente.
+Exemplos:
+
+Criar um menu suspenso: Um menu suspenso pode ter um z-index maior que a página principal para que ele fique "em cima" do conteúdo.
+Mostrar uma mensagem modal: Uma mensagem modal pode ter um z-index alto para que ela se destaque e capture a atenção do usuário.
+Posicionar elementos em camadas: Você pode usar o z-index para criar um efeito de camadas, com alguns elementos "atrás" de outros.
+Dicas para usar o z-index:
+
+Use com moderação: Usar o z-index em excesso pode tornar seu layout confuso e difícil de usar.
+Defina o contexto de empilhamento: É importante definir o contexto de empilhamento para evitar problemas de sobreposição inesperados.
+Teste em diferentes navegadores: O comportamento do z-index pode variar em diferentes navegadores.
+
