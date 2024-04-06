@@ -27,3 +27,9 @@ Use com moderação: Usar o z-index em excesso pode tornar seu layout confuso e 
 Defina o contexto de empilhamento: É importante definir o contexto de empilhamento para evitar problemas de sobreposição inesperados.
 Teste em diferentes navegadores: O comportamento do z-index pode variar em diferentes navegadores.
 
+Por padrão, é box-sizing: content-box
+width + padding realizando o preenchimento = tamanho total
+
+Com box-sizing: border-box;
+ele mantém o tamanho original sendo o valor width que você determinou
+
