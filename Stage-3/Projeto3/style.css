@@ -21,6 +21,7 @@
     --fw-body: 400;
     
     --fs-heading: clamp(4rem, 1rem + 5vw, 5.6rem);
+    --fs-heading-sm: clamp(1rem, 0.5rem + 3vw, 2rem);
     --fw-heading: 800;
     
 }
@@ -106,7 +107,7 @@ main {
     bottom: 5.2rem;
     left: 2.8rem;
 
-    font-size: 4rem;
+    font-size: var(--fs-heading-sm);
     font-weight: var(--fw-heading);
 
     display: flex;
