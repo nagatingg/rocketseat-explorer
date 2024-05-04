@@ -1,0 +1,126 @@
+------------
+
+# Introdução
+
+Linguagem de programação que roda no Navegador (front-end)
+
+JavaScript
+    Desktop
+    Mobile
+
+-----------------
+
+# Sintaxe
+
+// comentário no javascript
+/* */
+
+----------------
+
+# String
+
+cadeia de caracteres
+
+# Number
+
+33 // Inteiros
+12.1 // Reais
+Nan // Not a Number
+Infinity // infinito
+
+# Boolean
+
+true // verdadeiro
+false // falso
+
+# Undefined
+    Indefinido, algo que não existe
+
+# null
+    Objeto sem nada dentro dele, diferente de indefinido
+
+# Object
+    Contém propriedades / atributos
+    Funcionalidades / métodos
+
+Exemplo:
+console.log({
+    name: "Wesley",
+    idade: 19,
+    andar: function() {
+        console.log("andar");
+    }
+});
+
+# Array
+    Vetores
+        Lista
+        Agrupamento de dados
+
+# Tipos de dados
+    Primitivos
+    Estruturais
+    Estruturais primitivos
+
+----------------------
+
+# Variáveis
+
+Nomes simbólicos para receber algum valor
+Atalhos de código
+Identificadores
+
+3 Palavras reservadas para criar uma variável
+    var
+    let
+    const
+        não pode alterar seu valor
+
+# Tipos dinâmicos
+    Na linguagem mais moderna, utilizamos o let e const, deixando o var de lado
+
+# Scope
+Block statement
+
+var é global e local
+
+efeito hoisting do javascript com o var
+
+# scope let
+É local e só funciona no escopo criado
+
+Porém, pode ser atualizada se trazer de fora, exemplo:
+
+let y = 1
+{
+    y = 0
+    console.log(y);
+}
+console.log(y);
+
+Valor: 0 // Foi atualizado global, dentro do bloco local
+
+# scope const
+Diferente de let, não pode alterar o valor
+Mas você pode atribuir uma nova const dentro de um bloco local
+
+# Para criar nomes
+
+Posso:
+    Iniciar com caracteres especiais
+    Letras
+    Colocar acentos
+    Letras maísculas e minúsculas fazem diferença
+
+Não posso:
+    Iniciar com números
+    Colocar espaços vazios no nome
+
+Ideal
+    Criar nomes que fazem sentido
+    Que explique o que a variável é ou faz
+    camelCase
+    snake_case
+    Escrever em inglês
+
+
