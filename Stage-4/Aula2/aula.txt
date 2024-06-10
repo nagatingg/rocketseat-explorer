@@ -1,0 +1,38 @@
+------------
+
+# Declaration assignment var
+
+Variáveis e tipos de dados
+
+//typeof descobre qual o tipo de dado na variável
+
+Agrupamento de declarações
+
+Interpolando valores com template literals `` 
+    A diferença é que apenas quando for puxar elas no console, colocar ${nomeDaVariavel}
+
+--------------------
+
+# Funções
+
+Na função executada, são argumento funcao(2, 3)
+Mas na construção dela, são parametros: function(a, b){}
+
+# Arrow function
+
+Eu utilizo o => retirando o function, mas fazendo o mesmo papel, exemplo:
+
+const a = () => {
+    console.log("TEST");
+}
+
+# Callback
+
+Uma função, passando de parametro para uma função
+
+-------------------
+
+# Manipulando dados
+
+JavaScript, linguagem baseada em prototipos
+
