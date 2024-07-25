@@ -36,3 +36,36 @@ Uma função, passando de parametro para uma função
 
 JavaScript, linguagem baseada em prototipos
 
+Prototype, aquilo que já vem escrito antes
+    Criei um objeto, dai ele pega referencia acima de prototipos que podem ser utilizados
+
+Type conversion (typecasting) vs type coersion (javascript fazendo essa troca)
+    Alteração de um tipo de dado para outro tipo
+
+Manipulando String e Números
+    Utilizamos includes para saber se uma palavra especifica contém.
+    O split() para separar um array por um determinado caracter
+    join() para juntar um array
+    replace() para substituir um caracter especifico por outro
+    Array.from(word) transformar elemento de uma string em array
+
+------------------
+
+# Expressões e Operadores
+    Qualquer linha de código que resolve alguma coisa no JavaScript
+        Operador ternário, recebe uma condição que se for verdadeira, retorna tal valor, se for false, retorna outro valor
+
+Precedência de operadores
+    grouping ()
+    negação e incremento    ! ++ --
+    multiplicação e divisão * /
+    adição e subtração      + -
+    relacional              < <= > >=
+    igualdade               == != === !==
+    AND &&
+    OR                      ||
+    condicional             ?:
+    assignment (atribuição) = += -= *= %=
+
+Quando ele tem 3 sinais de igual === / ELe compara os valores e o tipo de elemento, para saber se é igual
+Mesma base, só que agora estritamente diferente !==
