@@ -69,3 +69,18 @@ Precedência de operadores
 
 Quando ele tem 3 sinais de igual === / ELe compara os valores e o tipo de elemento, para saber se é igual
 Mesma base, só que agora estritamente diferente !==
+
+
+----------------
+
+# Controle de fluxo da aplicação
+
+    throw dispirar, é utilizado sempre junto com try cath. Pode ser utilizado sozinho também, mas é indicado utilizar junto com try e catch para capturar o erro e continuar a aplicação ao invés de pausar
+
+----------------
+
+# Estrutura de Repetição
+
+    For
+        Dentro do for, eu consigo utilizar o break e o continue. Break para a função, enquanto o continue, ele pula aquele trecho
+
