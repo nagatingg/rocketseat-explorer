@@ -14,3 +14,17 @@ Javascript
     Comunidade e oportunidades
 
 
+Como resolver problemas em JavaScript
+    1 Identifique o que já sabe e faça!
+    2 Quebre o grande problema em problemas menores!
+
+Sempre quando eu ver algo que varia, eu preciso de uma variável
+
+String = cadeia de caracteres ""
+
+Utilizando nos exercicios iniciais:
+    camelCase
+    type conversion (type casting)
+    group operator
+
+    
