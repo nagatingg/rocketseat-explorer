@@ -4,6 +4,6 @@ Pergunte o nome do usuário e escreva a mensagem:
 "Olá, [nome do usuário"]
 */
 
-let nomeUsuario = prompt("Qual o seu nome?");
+let nameUser = prompt("Qual o seu nome?");
 
-alert("O nome do usuário é: " + nomeUsuario + ".")
+alert("Olá, " + nameUser);

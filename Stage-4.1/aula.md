@@ -6,7 +6,7 @@ Légica
 Algoritmos
 Javascript
     Linguagem de programaqäo da WEB
-        o Interagäo na pågina
+        o Interacäo na pågina
         o Captura e tratamento de dados
     Linguagem irterpretada, dinåmica, multi paradigma, moderna e viva
     Roda no navegador
@@ -26,5 +26,24 @@ Utilizando nos exercicios iniciais:
     camelCase
     type conversion (type casting)
     group operator
+
+Pensamento crítico e lógico
+    Pensar
+        É necessário tempo para pensar
+        Para quem está começando, esse tempo é maior
+        É necessário evitar interrupções
+        Para quem não treinou o foco, é muito fácil ser interrompido
+
+    Questionar e entender
+        Precisamos aprender a ler e interpretar o problema
+        Melhores perguntas, vem as melhores respostas
+
+    Praticar
+        Quanto mais praticar, melhor vai ficar
+
+    Ver código
+        Tentar entender o código dos outros
+        Encontrando código bom e código ruim / saber identificar
+
 
     

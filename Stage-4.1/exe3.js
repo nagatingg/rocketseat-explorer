@@ -27,3 +27,15 @@ alert("Resultado: " + restOfTheDivision);
 
 const sum = sum + 100;
 alert(sum);
+
+/* Refazendo de forma rápida */
+
+let firstNumber = prompt("Digite o primeiro número: ");
+let secondNumber = prompt("Digite o segundo número: ");
+
+firstNumber = Number(firstNumber);
+secondNumber = Number(secondNumber);
+
+const sum1 = firstNumber + secondNumber;
+
+alert("A soma dos dois números é: " + sum1);
