@@ -46,4 +46,7 @@ Pensamento crítico e lógico
         Encontrando código bom e código ruim / saber identificar
 
 
+Math: pacotes com funcionalidades
+    Math.seil(precisa de um argumento)
+    NaN
     
