@@ -46,7 +46,16 @@ Pensamento crítico e lógico
         Encontrando código bom e código ruim / saber identificar
 
 
-Math: pacotes com funcionalidades
-    Math.seil(precisa de um argumento)
-    NaN
-    
+    Math: pacotes com funcionalidades
+        Math.seil(precisa de um argumento)
+        NaN
+        
+
+Aperfeiçoando a resolução de problemas
+    Perguntas a serem feitas
+    Quais os dados de entrada que terei? (inputs)
+    Quais as variåveis?
+    Qual o caminho ideal?
+    Qual(is) o(s) caminho(s) alternativo(s)?
+    Quais tratamentos de dados preciso fazer?
+    Qual é a saída, ou quais os dados de saída, esperada? (outputs)
