@@ -59,3 +59,5 @@ Aperfeiçoando a resolução de problemas
     Qual(is) o(s) caminho(s) alternativo(s)?
     Quais tratamentos de dados preciso fazer?
     Qual é a saída, ou quais os dados de saída, esperada? (outputs)
+
+*A função .push é usada para adicionar valores a um array
