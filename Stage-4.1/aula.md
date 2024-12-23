@@ -60,4 +60,6 @@ Aperfeiçoando a resolução de problemas
     Quais tratamentos de dados preciso fazer?
     Qual é a saída, ou quais os dados de saída, esperada? (outputs)
 
-*A função .push é usada para adicionar valores a um array
+    *A função .push é usada para adicionar valores a um array
+    LET e CONST são mais variáveis mais modernas de serem utilizadas, mas existem código com VAR
+

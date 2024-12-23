@@ -1,2 +1,0 @@
-/*
-Dada uma lista
