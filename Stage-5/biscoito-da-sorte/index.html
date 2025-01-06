@@ -9,13 +9,13 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <!-- End Google Fonts -->
     <link rel="stylesheet" href="./style.css">
-    <script src="./main.js" defer></script>
+    <script src="./main.js" type="module" defer></script>
     <title>Projeto Biscoito da Sorte</title>
 </head>
 <body>
     <div class="container">
         <main class="card">
-            <!-- <div id="screen1">
+            <div class="screen screen1">
                 <h3>Qual é a sua sorte de hoje?</h3>
                 <p>
                     Abra o biscoito e descubra!
@@ -29,8 +29,8 @@
                     <path opacity="0.1" d="M131.071 174.571C117.571 181.857 103.357 186.929 90.0714 190.5C85.2143 173.143 73.9286 163.286 64.8571 158C89.5 154.286 104.214 146.071 104.214 146.071C105.357 147.571 131.071 174.571 131.071 174.571Z" fill="black"/>
                     <path d="M157.214 33.6429C150.286 46.8572 131.857 38.8572 136 38.6429C140.143 38.4286 152.571 21.3572 160.857 15.6429C169.214 9.92858 191.571 7.64286 194.071 11.2143C196.643 14.7857 189.5 15.3572 181.214 15.6429C172.857 15.8572 167.357 57.7857 167.357 57.7857C152.143 49.9286 164.143 20.4286 157.214 33.6429Z" fill="#F4CD9A"/>
                     </svg>      
-            </div> -->
-            <div id="screen2" class="hide">
+            </div>
+            <div class="screen screen2 is-hiden">
                 <h3>Aqui está a sua sorte de hoje:</h3>
                 <p>
                     Se alguém está tão cansado que não possa te dar um sorriso, deixa-lhe o teu.
@@ -48,7 +48,7 @@
                     <path d="M64.4553 71.2984C65.9187 76.0544 60.0651 77.2251 50.2604 78.469C40.5289 79.6397 35.6265 87.4689 40.0167 78.469C44.4068 69.396 54.2116 57.5425 54.2116 57.5425C54.2116 57.5425 62.9919 66.4692 64.4553 71.2984Z" fill="#F4CD9A"/>
                     <path d="M202.453 57.5425C202.453 57.5425 226.891 81.3958 231.282 82.7128C235.672 84.0299 226.891 94.3468 219.575 90.6883C212.258 86.9567 197.038 87.4689 197.038 87.4689L202.453 57.5425Z" fill="#F4CD9A"/>
                     </svg>
-                <div id="btnAgain">Abrir outro biscoito</div>
+                <div class="btn btnAgain">Abrir outro biscoito</div>
             </div>
         </main>
     </div>
