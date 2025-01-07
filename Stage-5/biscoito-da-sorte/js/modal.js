@@ -9,8 +9,8 @@ export const Modal = {
     messages: {
         message: document.querySelector('.screen2 p span')
     },
-
-        svgAbrirBiscoito: document.querySelector('.screen1 svg'),
+    svgAbrirBiscoito: document.querySelector('.screen1 svg'),
+    svgAbrirNovoBiscoito: document.querySelector('.btn.btnAgain'),
 
     changeScreen() {
         if(Modal.screens.screen1.classList.contains('is-hiden')) {
@@ -28,5 +28,12 @@ export function initializeApp(event) {
     if (event.type === 'click' || (event.type === 'keydown' && event.key === 'Enter')) {
         Modal.changeScreen();
         displayPhrase();
+    }
+}
+
+export function initializeAppAgain(event) {
+    console.log("está sendo chamada", event)
+    if (event.type === 'click') {
+        Modal.changeScreen();
     }
 }
