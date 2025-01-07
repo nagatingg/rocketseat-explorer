@@ -32,7 +32,6 @@ export function initializeApp(event) {
 }
 
 export function initializeAppAgain(event) {
-    console.log("está sendo chamada", event)
     if (event.type === 'click') {
         Modal.changeScreen();
     }
