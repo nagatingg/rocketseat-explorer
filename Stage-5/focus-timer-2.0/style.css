@@ -93,11 +93,11 @@ button {
 }
 
 /* controls */
-.runing .ph-play-circle,
-.runing .ph-timer,
+.running .ph-play-circle,
+.running .ph-timer,
 .music-on .ph-speaker-none,
-html:not(.runing) .ph-pause-circle,
-html:not(.runing) .ph-stop-circle,
+html:not(.running) .ph-pause-circle,
+html:not(.running) .ph-stop-circle,
 html:not(.music-on) .ph-speaker-high {
     display: none;
 }
