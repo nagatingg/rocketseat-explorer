@@ -1,0 +1,8 @@
+.hide {
+    display: none;
+}
+
+.input-error,
+.input-error:focus {
+    border-color: red;
+}
