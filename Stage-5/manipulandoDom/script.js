@@ -96,7 +96,7 @@ input.onchange = () => {
 
 input.addEventListener('input', (event) => {
     const value = input.value
-    const regex = /\D+/g
+    const regex = /\d+/g
     console.log(value.match(regex))
 
     // teste o padrão
@@ -106,6 +106,12 @@ input.addEventListener('input', (event) => {
 
 form.addEventListener('submit', (event) => {
     event.preventDefault()
-    const value = input.value.replace(regex, 'x')
+    const regex = /\d+/g
+    const value = input.value//.replace(regex, 'x')
     console.log(value)
+    if(regex.test(value)){
+        alert(`O texto contém número.`)
+    }  else {
+        alert(`Enviado`)
+    }
 })
