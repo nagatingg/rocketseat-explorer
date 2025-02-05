@@ -5,3 +5,4 @@ JavaScript
             JavaScript linguagem que executa nos navegadores
             ECMAScript é a especificação que define como se comportar
 
+    Strict Mode para erros que eram silenciosos
