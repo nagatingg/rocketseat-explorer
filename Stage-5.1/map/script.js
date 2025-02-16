@@ -44,3 +44,21 @@ const index = valores.findIndex((valor) => valor > 4)
 console.log(valores[index])
 // Exemplo quando não encontra
 console.log(valores.findIndex((numero) => numero > 12))
+
+/// O método find() retorna o índice no array do primeiro elemento que satisfizer a condição.  Caso contrário, retorna undefined
+
+const valors = [5, 12, 8, 130, 44]
+// Retorna o primeiro elemento com valor maior que 10
+const found = valors.find((valorr) => valorr > 10)
+console.log(found);
+
+// Exemplo com objeto
+const fruits = [
+    {name: 'Apple', quantity: 23},
+    {name: 'Bananas', quantity: 25},
+    {name: 'Oranges', quantity: 52},
+]
+
+const foundd = fruits.find((fruit) => fruit.quantity > 10)
+console.log(foundd)
+
