@@ -68,3 +68,32 @@ const ages = [18, 20, 40, 8, 10, 12]
 // Verifica se todos os items passam na condição de maiores de 18 anos
 const resultado = ages.every((age) => age >= 18)
 console.log(resultado)
+
+// O método some() testa se ao menos um dos elementos no array passa na condição e retorna um valor true or false
+
+const agess = [17, 20, 30, 50]
+const resultt = agess.some((agess) => agess < 18)
+
+console.log(resultt)
+
+
+/* Método reduce e utilizado para reduzir um array a um único valor.
+Parâmetros: 
+    Parâmetros:
+    Array original (values)
+    Acumulador
+    Valor inicial (0)
+    Valor da iteração
+    Index (index da iteração atual - opcional)
+*/
+
+const valuesss = [10, 20, 30, 40]
+const summm = valuesss.reduce((accumulator, currentValuee, indexxx) => {
+    console.log("ACUMULADOR", accumulator)
+    console.log("CURRENT VALUE", currentValuee)
+    console.log("INDEX", indexxx)
+    console.log("SOMA", accumulator + currentValuee)
+    console.log("############")
+    return accumulator + currentValuee
+
+}, 0)
