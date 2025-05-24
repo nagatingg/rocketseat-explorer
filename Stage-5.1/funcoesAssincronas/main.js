@@ -13,16 +13,40 @@ function asyncFunction(){
     })
 }
 
+async function fetch() {
+    try { 
+        const response = await asyncFunction()
+        console.log("Sucesso", response)
+    } catch(error) {
+        console.log("Erro: ", error)
+    } finally {
+        console.log("Fim da execução!")
+    }
+}
+fetch()
+
+// Array function
+/* 
+    const fetch = async () => {
+    const response = await asyncFunction()
+    console.log(response)
+}
+fetch() 
+*/
+
 // Visualizando que o retorno é uma Promise
 
 // console.log(asyncFunction())
 
-console.log("Executando a função asíncrona...")
+/* 
+    console.log("Executando a função asíncrona...")
+ */
+/* 
+    const response = asyncFunction()
+    console.log(response) */
 
-const response = asyncFunction()
-console.log(response)
-
-/* asyncFunction()
+/* 
+    asyncFunction()
     .then((response) => {
         console.log("Sucesso?", response)
     })
@@ -31,4 +55,5 @@ console.log(response)
     })
     .finally(() => {
     console.log("Fim da execução")
-    }) */
+    }) 
+    */
